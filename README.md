@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shiv Shivnani</h1>
-<h3 align="center">A passionate Solidity developer from India</h3>
+<h3 align="center">A passionate Solidity developer & WEB3 Researcher from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam0139&label=Profile%20views&color=0e75b6&style=flat" alt="sam0139" /> </p>
 
